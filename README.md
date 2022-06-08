@@ -5,6 +5,6 @@ bash <(curl -s -L https://raw.githubusercontent.com/sgj123456/shell-game/master/
 ```
 ## 648辅助器.sh
 ```
-bash <(curl -s -L https://raw.githubusercontent.com/sgj123456/shell-game/master/648%E8%BE%85%E5%8A%A9%E5%99%A8.sh）
+bash <(curl -s -L https://raw.githubusercontent.com/sgj123456/shell-game/master/648%E8%BE%85%E5%8A%A9%E5%99%A8.sh)
 ```
 ## 作者QQ2586743928
